@@ -1,0 +1,23 @@
+[2021-10-01 22:40:11] INFO User:- AnonymousUser
+[2021-10-01 22:40:11] INFO http://127.0.0.1:8000/homepage/
+[2022-01-26 23:34:25] INFO User:- AnonymousUser
+[2022-01-26 23:34:25] INFO http://127.0.0.1:8000/homepage/
+[2022-02-12 20:29:06] INFO User:- AnonymousUser
+[2022-02-12 20:29:06] INFO http://127.0.0.1:8000/homepage/
+[2022-02-12 20:29:32] INFO User:- AnonymousUser
+[2022-02-12 20:29:32] INFO http://127.0.0.1:8000/homepage/
+[2022-02-12 20:29:53] INFO User:- AnonymousUser
+[2022-02-12 20:29:53] INFO http://127.0.0.1:8000/homepage/
+[2022-02-12 20:30:54] INFO User:- AnonymousUser
+[2022-02-12 20:30:54] INFO http://127.0.0.1:8000/homepage/
+[2022-03-02 14:53:10] INFO User:- AnonymousUser
+[2022-03-02 14:53:10] INFO http://127.0.0.1:8000/homepage/
+[2022-03-02 14:53:20] INFO User:- AnonymousUser
+[2022-03-02 14:53:20] INFO http://127.0.0.1:8000/homepage/
+[2022-03-02 14:53:28] INFO User:- AnonymousUser
+[2022-03-02 14:53:28] INFO http://127.0.0.1:8000/homepage/
+[2022-03-02 14:53:34] INFO User:- AnonymousUser
+[2022-03-02 14:53:34] INFO http://127.0.0.1:8000/homepage/
+[2022-03-02 14:53:34] INFO <QueryDict: {'csrfmiddlewaretoken': ['a1iPcCWISRDZLj5AYXPocot9kYDS5TLNqRBx8I5lor64TS6xmq9DiNRDgHtRgaQ2'], 'nm': ['adqwd'], 'qty': ['14'], 'price': ['45'], 'ispub': ['No']}>
+[2022-03-02 14:53:34] INFO User:- AnonymousUser
+[2022-03-02 14:53:34] INFO http://127.0.0.1:8000/homepage/

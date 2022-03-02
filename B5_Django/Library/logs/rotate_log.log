@@ -1,0 +1,28 @@
+[2021-10-01 22:24:46] INFO [book.homepage:26] User:- AnonymousUser
+[2021-10-01 22:24:46] INFO [book.homepage:27] http://127.0.0.1:8000/homepage/
+[2021-10-01 22:34:06] INFO [book.homepage:26] User:- AnonymousUser
+[2021-10-01 22:34:06] INFO [book.homepage:27] http://127.0.0.1:8000/homepage/
+[2021-10-01 22:35:57] INFO [book.firstapp_home:10] AnonymousUser -- http://127.0.0.1:8000/first-app-home/
+[2021-10-01 22:40:11] INFO [book.homepage:26] User:- AnonymousUser
+[2021-10-01 22:40:11] INFO [book.homepage:27] http://127.0.0.1:8000/homepage/
+[2022-01-26 23:34:25] INFO [book.homepage:26] User:- AnonymousUser
+[2022-01-26 23:34:25] INFO [book.homepage:27] http://127.0.0.1:8000/homepage/
+[2022-02-12 20:29:06] INFO [book.homepage:26] User:- AnonymousUser
+[2022-02-12 20:29:06] INFO [book.homepage:27] http://127.0.0.1:8000/homepage/
+[2022-02-12 20:29:32] INFO [book.homepage:26] User:- AnonymousUser
+[2022-02-12 20:29:32] INFO [book.homepage:27] http://127.0.0.1:8000/homepage/
+[2022-02-12 20:29:53] INFO [book.homepage:26] User:- AnonymousUser
+[2022-02-12 20:29:53] INFO [book.homepage:27] http://127.0.0.1:8000/homepage/
+[2022-02-12 20:30:54] INFO [book.homepage:26] User:- AnonymousUser
+[2022-02-12 20:30:54] INFO [book.homepage:27] http://127.0.0.1:8000/homepage/
+[2022-03-02 14:53:10] INFO [book.homepage:26] User:- AnonymousUser
+[2022-03-02 14:53:10] INFO [book.homepage:27] http://127.0.0.1:8000/homepage/
+[2022-03-02 14:53:20] INFO [book.homepage:26] User:- AnonymousUser
+[2022-03-02 14:53:20] INFO [book.homepage:27] http://127.0.0.1:8000/homepage/
+[2022-03-02 14:53:28] INFO [book.homepage:26] User:- AnonymousUser
+[2022-03-02 14:53:28] INFO [book.homepage:27] http://127.0.0.1:8000/homepage/
+[2022-03-02 14:53:34] INFO [book.homepage:26] User:- AnonymousUser
+[2022-03-02 14:53:34] INFO [book.homepage:27] http://127.0.0.1:8000/homepage/
+[2022-03-02 14:53:34] INFO [book.homepage:29] <QueryDict: {'csrfmiddlewaretoken': ['a1iPcCWISRDZLj5AYXPocot9kYDS5TLNqRBx8I5lor64TS6xmq9DiNRDgHtRgaQ2'], 'nm': ['adqwd'], 'qty': ['14'], 'price': ['45'], 'ispub': ['No']}>
+[2022-03-02 14:53:34] INFO [book.homepage:26] User:- AnonymousUser
+[2022-03-02 14:53:34] INFO [book.homepage:27] http://127.0.0.1:8000/homepage/
